@@ -1,0 +1,52 @@
+.comment_post{
+    height: 560px;
+    width: 104%;
+    /* background-color: rebeccapurple; */
+    margin-top: 3%;
+    border: 2px solid lightgray; 
+    /* background-color: white; */
+    margin-bottom: 45px;
+    border-radius: 10px;
+    margin-left:-4%;
+}
+
+
+.pro_div{
+    margin-top: 4%;
+}
+
+.post_line{
+    border-top: 2px solid #808080;
+}
+
+.add{
+    text-decoration: underline;
+    padding: 8px;
+    color: rgb(57, 57, 192);
+}
+
+.text_add{
+    margin-top: 4%;
+    height: 41px;
+}
+
+.post_button{
+    background-color: inherit;
+    width: 50%;
+    border: 0px solid;
+    margin-left: -15%;
+}
+
+
+.comments{
+    margin-top: 2%;
+    /* background-color: red; */
+    padding-left: 8%;
+}
+
+.show_btn{
+    text-decoration: underline;
+    padding: 8px;
+    /* color: rgb(57, 57, 192); */
+    margin-top: 2%;
+}

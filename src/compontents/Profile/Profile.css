@@ -1,0 +1,220 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+
+.row_data{
+    height: 60%;
+}
+
+.profile_div{
+    margin-top: 4%;
+}
+
+.my_photo{
+    height: 90%;
+    width: 90%;
+    margin: 20px;
+    text-align: center;
+}
+
+.my_photo .myimage{
+    width: 90%;
+    height: 90%;
+    border-radius: 50%;
+    background-size: cover;
+    /* margin: 9% 0px 0px 10%; */
+}
+
+
+.d-center  input {
+        display: none;
+        visibility: hidden;
+        width: 0;
+        height: 0;
+        margin: 15% 10%;
+       
+    }
+
+.d-center label    {
+        display: inline-block;
+        color: blue;
+        cursor: pointer;
+        width: 100%;
+        margin: 17% 0%;
+
+    }
+
+.d-center{
+    /* background-color: lightcoral; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    height: 200px;
+    margin-top: 25%;
+    text-align: center;
+    /* border: 1px solid; */
+
+}
+
+.btn_disabled{
+    color: rgb(43, 41, 41) !important;
+    cursor: context-menu !important;
+}
+.d-center .btn-primary{
+    width: 80%;
+}
+
+.my_data{
+    padding: 15px;
+    margin-top: 20px;
+    /* margin: 5% 0px ; */
+    /* margin: 5% 0px 0px 2%; */
+    /* background-color: coral; */
+    /* height: 240px; */
+}
+
+/* .horizontal{
+    height: 3px !important;
+} */
+
+.img_post{
+    width: 80%;
+    height: 250px;
+    margin: 1% 10%;
+
+}
+
+.img_post img{
+display: inline-block;
+width: 30%;
+height: 100%;
+margin-left: 3%;
+
+}
+
+
+.counts{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3% 6%;
+    padding-top: 20px;
+}
+.horizon{
+   /* color: #000; */
+   height: 4px !important;
+}
+
+h2{
+    display: inline;
+ }
+
+ .bio_account{
+     margin-top: 5%;
+ }
+ 
+
+ .data_edit{
+     display: inherit;
+     /* justify-content: space-between;
+     align-items: center; */
+     width: 100%;
+     
+      /* width: 122%; */
+     border-left: 1px solid;
+    padding-left: 4%;
+    
+ }
+
+ .btn_hidden{
+     display: none;
+ }
+
+ .data_edit .w-25{
+    margin-left: 18%;
+ }
+ 
+
+ .data_edit .w-25:hover{
+     background-color: #0d6efd;
+     color: #fff;
+ }
+
+ .data_edit button{
+     background-color: #d1d1d1;
+     padding: 5px;
+     border: 0px solid;
+     border-radius: 15px;
+     width: 120%;
+     margin-left: 3%;
+ }
+
+ /* Styles of Editprofile Page */
+form{
+    margin-left: 5%;
+}
+.my_data_edit{
+    background-color: #e9ecef;
+    padding: 15px;
+    margin: 4% ;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+.myform{
+    border-left: 1px solid;
+    padding-left: 20px;
+    width: 60%;
+}
+.my_data_edit form .sub_data{
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin-top: 6%;
+}
+
+.my_data_edit .sub_data label{
+    width: 66%;
+    display: inline-block;
+    padding-left: 2%;
+}
+
+.my_data_edit input[type=submit]{
+    background-color: #d1d1d1;
+    padding: 5px;
+    border: 0px solid;
+    border-radius: 15px;
+    margin: 10% 35%;
+}
+
+/* .my_data_edit input[type=submit]:hover{
+    background-color: rgb(124, 222, 255);
+} */
+
+.left_div{
+    width: 35%;
+    /* background-color: red; */
+}
+
+.left_div .sub_data{
+   margin: 10% 0px 15% 0px;
+    width:100%
+}
+
+.left_div .btn_change{
+margin-top: -10% !important;
+}
+
+.img_edit{
+  width: 100%;
+  text-align: center;
+  border: 1px solid #eee;
+  margin-top: 3%;
+  height: 100%;
+  display: inline-block;
+}
+
+.footer{
+    margin-top: 5%;
+}

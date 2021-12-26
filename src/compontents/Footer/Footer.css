@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+
+#footer{
+  border: 0px solid #000;
+  background-color: #e9ecef;;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }

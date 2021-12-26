@@ -1,0 +1,8 @@
+.dark_mode{
+    width: 7%;
+    height: 45px;
+    border: 0px solid;
+    background-color: rgb(94, 91, 91);
+    color: #fff;
+    border-radius: 10px;
+}
